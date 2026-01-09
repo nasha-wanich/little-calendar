@@ -29,19 +29,18 @@ Figma design file for this project: https://www.figma.com/design/iYQcS1Wk1f83vyh
 
 ### 1. Clone This Repo
 
-'''bash
+```
 git clone https://github.com/nasha-wanich/little-calendar.git
-
 cd little-calendar
-'''
+```
 
 ### 2. Install Node.js
 
 Make sure you have Node.js installed, then run:
 
-'''bash
+```
 npm install
-'''
+```
 
 This installs Electron and any other modules required to run the app.
 
