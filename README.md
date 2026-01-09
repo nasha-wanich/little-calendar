@@ -46,8 +46,31 @@ This installs Electron and any other modules required to run the app.
 
 ### 3. Run the App Locally
 
-'''bash
+```
 npm run start
-'''
+```
 
 This will open your Little Calendar as a desktop application powered by Electron.
+
+## What You’ll Learn
+
+This tutorial series covers:
+
+- Setting up a basic ElectronJS project (see this repo for the template: https://github.com/nasha-wanich/electron-app-template)
+- Creating your HTML calendar UI
+- Styling the calendar with CSS
+- Simple calendar logic with JavaScript
+- Running your project as a native desktop app
+
+Each part of the tutorial is reflected in this repo as we build the calendar together.
+
+## Want Just a Plain Electron Template?
+
+If you don’t need the tutorial content and just want a minimal Electron starter project, please see this repo for the template: https://github.com/nasha-wanich/electron-app-template
+
+The repo provides a super simple boilerplate you can build on to make your own Electron desktop app.
+
+
+## ## Feedback & Contributions
+
+If you find something confusing or want to suggest improvements, feel free to open an issue or submit a pull request! Happy coding <3 - Nasha 
