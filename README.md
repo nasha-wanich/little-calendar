@@ -6,7 +6,7 @@ A simple desktop calendar app built with HTML, CSS, JavaScript, and ElectronJS. 
 
 I posted a full YouTube tutorial walking through how to build this step-by-step from scratch, so this repo provides the code along the way.
 
-See Youtube video:
+See Youtube video: https://www.youtube.com/watch?v=btxGSJ3Dh8E&t=373s
 
 ## Design File
 
