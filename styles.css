@@ -12,7 +12,13 @@ body {
   border-radius: 20px;
   margin: 0;
   background: transparent;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
 
+}
+
+body::-webkit-scrollbar {
+  display: none;
 }
 
 .app {
@@ -23,6 +29,7 @@ body {
     gap: 0.5rem;
     width: 13.375rem;
     padding: 1rem 1.0625rem;
+    
 
 
     background-image: url("assets/outer-frame-bg.png");
